@@ -101,4 +101,5 @@ ligne de corentin
 une nouvelle ligne de Stephane
 derniere ligne de corentin
 encore une nouvelle ligne de Nesrine
+encore un conflit sur la dernière ligne!!!
 
